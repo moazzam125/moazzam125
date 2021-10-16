@@ -8,7 +8,5 @@
 
 ### **[learn-python](https://github.com/moazzam125/learn-python)**
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/moazzam125/learn-python?include_prereleases)
 ![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-python)
-![GitHub all releases](https://img.shields.io/github/downloads/moazzam125/learn-python/total)
 ![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-python)
