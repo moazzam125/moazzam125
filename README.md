@@ -10,7 +10,9 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-python)
 ![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-python)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/moazzam125/learn-python)
 
 ### **[learn-kivy](https://github.com/moazzam125/learn-kivy)**
 ![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-kivy)
 ![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-kivy)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/moazzam125/learn-kivy)
