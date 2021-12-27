@@ -14,3 +14,8 @@
 ### **[learn-kivy](https://github.com/moazzam125/learn-kivy)**
 ![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-kivy)
 ![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-kivy)
+
+### **[Chemicology](https://github.com/moazzam125/chemicology)**
+
+![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/chemicology)
+![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/chemicology)
