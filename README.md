@@ -32,26 +32,4 @@ I am Muhammad Moazzam intermediate student developer. Cross platform Mobile Desk
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ### My Github Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moazzam125&show_icons=true" alt="moazzam125" />
-<details>
-<summary> Detailed Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=moazzam125&include_all_commits=true&count_private=true&show_icons=true alt="moazzam125" />
-
-### My Repositories
-
-#### **[learn-python](https://github.com/moazzam125/learn-python)**
-
-![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-python)
-![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-python)
-
-#### **[learn-kivy](https://github.com/moazzam125/learn-kivy)**
-![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/learn-kivy)
-![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/learn-kivy)
-
-#### **[Chemicology](https://github.com/moazzam125/chemicology)**
-
-![GitHub repo size](https://img.shields.io/github/repo-size/moazzam125/chemicology)
-![GitHub last commit](https://img.shields.io/github/last-commit/moazzam125/chemicology)
-
-</details>
