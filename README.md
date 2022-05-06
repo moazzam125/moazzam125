@@ -6,9 +6,6 @@
 <a href="https://twitter.com/Moazzam_125">
   <img align="left" alt="Muhammad Moazzam | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-moazzam-773521191/">
-  <img align="left" alt="Moazzam's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=moazzam125)
 
@@ -20,8 +17,7 @@ I am Muhammad Moazzam intermediate student developer. Cross platform Mobile Desk
 
 - 👨🏽‍💻 I’m currently working on [learn-pygame](https://github.com/moazzam125/learn-pygame)
 - 🌱 I’m currently learning pygame & django
-- 💼 any freelance work? do reach, [Email](mailto:moazzam.12@outlook.com)
-- 💬 Ask me about anything, I am happy to help : [Need Help?](https://moazzam125.github.io/contact/)
+- 💬 Ask me about anything, I am happy to help : [Need Help?](https://moazzam.live/contact/)
 - 📫 How to reach me: [Discord](https://discordapp.com/users/791684658551193640)
 
 **languages and tools:**  
