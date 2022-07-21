@@ -16,14 +16,12 @@ I am Muhammad Moazzam intermediate student developer. Cross platform Mobile Desk
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [learn-pygame](https://github.com/moazzam125/learn-pygame)
-- 🌱 I’m currently learning pygame & django
+- 🌱 I’m currently learning pygame
 - 💬 Ask me about anything, I am happy to help : [Need Help?](https://moazzam.live/contact/)
 - 📫 How to reach me: [Discord](https://discordapp.com/users/791684658551193640)
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
